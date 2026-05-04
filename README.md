@@ -25,17 +25,7 @@
 
 
 ### 🗄️ Database
-![SQL](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-
----
-
-## 📊 GitHub Stats
-![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokesh-bhandari12&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=lokesh-bhandari12&theme=tokyonight)
+![SQL](https://img.shields.io/badge/SQl-darkgreen?style=for-the-badge&logo=mongodb)
 
 ---
 
