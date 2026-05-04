@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lokesh Bhandari
 
-💻 MCA (AI) Student  
+💻 MCA Student  
 🚀 Aspiring Software Developer  
 🌱 Passionate about Full-Stack Development & AI  
 
@@ -17,34 +17,25 @@
 ## 🛠️ Tech Stack
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
 
 ### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![SQL](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 
 ---
 
 ## 📊 GitHub Stats
-![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
+![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokesh-bhandari12&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=tokyonight)
-
----
-
-## 🚀 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=lokesh-bhandari12&theme=tokyonight)
 
 ---
 
